@@ -1,4 +1,4 @@
 
 <Version: 1.02>
-/img/battlebacks2 https://www.mediafire.com/file/r9k0ch7trgjaszm/100346.png/
+/img/battlebacks2/test.zip https://www.mediafire.com/file/r9k0ch7trgjaszm/100346.png/
 <End of Version>
