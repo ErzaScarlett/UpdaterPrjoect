@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/data https://download948.mediafire.com/1prknpoq7u7g/jrntjs9o7428j09/v101.zip
+/data/ https://download948.mediafire.com/1prknpoq7u7g/jrntjs9o7428j09/v101.zip
 <End of Version>
